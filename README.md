@@ -1,2 +1,3 @@
-# selectbox-codigo-telefonico
-Campo selectbox dos países com os seus respectivos códigos telefônicos no valor;
+# Lista de países com código telefônico HTML
+
+Campo selectbox com o nome os países e seus respectivos códigos telefônicos.
